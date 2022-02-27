@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Unto the right honourable the lords of His Majesties Privie Conncil [sic], the petition of Patrick Johnstoun, late bailie in Edinburgh, Alexander Campbel, Alexander Clerk, and Alexander Mackgill, merchants in Edinburgh, David Waike, and Ralph Spurri Englishmen.</title>
+            <author>Johnstoun, Patrick.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87616</idno>
+            <idno type="STC">Wing J879A</idno>
+            <idno type="STC">ESTC R178993</idno>
+            <idno type="EEBO-CITATION">45504484</idno>
+            <idno type="OCLC">ocm 45504484</idno>
+            <idno type="VID">171800</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87616)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171800)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2591:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Unto the right honourable the lords of His Majesties Privie Conncil [sic], the petition of Patrick Johnstoun, late bailie in Edinburgh, Alexander Campbel, Alexander Clerk, and Alexander Mackgill, merchants in Edinburgh, David Waike, and Ralph Spurri Englishmen.</title>
+                  <author>Johnstoun, Patrick.</author>
+                  <author>Campbel, Alexander.</author>
+                  <author>Clerk, Alexander.</author>
+                  <author>Mackgill, Alexander.</author>
+                  <author>Waike, David.</author>
+                  <author>Spurri, Ralph.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1697]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tariff --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:171800:1"/>
+            <!-- PDF PAGE 44 -->
+            <head>
+               <hi>Unto the Right Honourable, the Lords of His Majeſties Privie Conncil, The</hi> PETITION <hi>Of</hi> Patrick Iohnſtoun, <hi>late Bailie in</hi> Edin<g ref="char:EOLhyphen"/>burgh, Alexander Campbel, A<g ref="char:EOLhyphen"/>lexander Clerk, <hi>and</hi> Alexander Mackgill, <hi>Merchants in</hi> Edinburgh, David Waike, <hi>and</hi> Ralph Spurri <hi>Engliſhmen.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat by your Lordſhips Proclamation, publiſhed the 20 of <hi>July</hi> inſtant, all Victual to be Imported is declared to be lyable to Cuſtome and other Duties, as before the Proclamation publiſhed upon the ſixth of <hi>Auguſt,</hi> 1696. And the Collectors of His Majeſties Cuſtoms are appointed to Collect and Compt for the ſame accordingly, wherethrough your Petitioners being heavily prejudged, humbly beg liberty to lay before your Lordſhips the Reaſons following, why the particular quantities of Victual be<g ref="char:EOLhyphen"/>longing to them, cannot be lyable to pay Cuſtom, <hi>viz.</hi> 1. In caſes of the like nature formerly, when Victual was diſcharged to be Imported, or Burdened if Imported; your Lordſhips were always ſo tender of the preju<g ref="char:EOLhyphen"/>dice Merchants might ſuffer, that upon their giving Oath that they had Com<g ref="char:EOLhyphen"/>miſſioned and Loadned the Victual before the Publiſhing of ſuch Proclamati<g ref="char:EOLhyphen"/>ons or Orders, they were always allowed to Import the ſame free of the bur<g ref="char:EOLhyphen"/>den of the ſaids Orders: And here our caſe is much more juſt and favourable, where we are content to make Faith, or if need beis, to prove by Witneſſes, or other Documents beyond exception, that part of the Victual belonging to us the ſaids <hi>Patrick Johnſtoun Alexander Campbel, Alexander Clark, David Waike</hi> and <hi>Ralph Spurrie</hi> did Arrive at <hi>Heymouth</hi> before the <hi>12th</hi> or <hi>14th</hi> of <hi>July</hi> inſtant, and a great part of us Arrived ſince at <hi>Leith</hi> two days after the Pro<g ref="char:EOLhyphen"/>clamation, and the reſt at <hi>Holy-Iſland,</hi> detained by contrary Winds ſince that
+<pb n="2" facs="tcp:171800:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 45 -->time; and that the Victual belonging to me, the ſaid <hi>Alexander Mackgill</hi> was partly lying upon the Road of <hi>Leith</hi> in a Ship, long ago reported, and a ſuffe<g ref="char:EOLhyphen"/>rance given for Livering, and whereof above 300 Bolls was Livered according<g ref="char:EOLhyphen"/>ly, and the reſt of my Victual is at <hi>Haymouth</hi> and <hi>Holy Iſland,</hi> detained in man<g ref="char:EOLhyphen"/>ner foreſaid: And it were the hardeſt thing imaginable to make us lyable for Cuſtom, who have Bought, Loadened, Imported, and partly Livered that Victual, directly upon the proſpected being free of Cuſtom, and yet upon ſuch a ſurprize to cauſe exact it from us; which in effect is to take as much Mo<g ref="char:EOLhyphen"/>ney out of our Pocket: And its hoped your Lordſhips will be far from ſuch a meaſure of rigour towards us. 2. It was never controverted, but where any Veſſels toucht at any Port, Creek, or Harbour within this Kingdom, with an intention to Liver; and much more out of doubt, where they had bro<g ref="char:EOLhyphen"/>ken bulk, and Livered any part of their <hi>Cargo;</hi> but theſe Goods were reputed already Imported; ſo that in this caſe, even in the rigor of the Proclamati<g ref="char:EOLhyphen"/>on, all Victual in that condition muſt be free of Duty, as being already Im<g ref="char:EOLhyphen"/>ported: And it were a very great hardſhip to make your Petitioner ſuffer for contrary Winds, and to be lyable for the burden of Cuſtom, I upon ac<g ref="char:EOLhyphen"/>count, and for Cauſes they could no ways prevent.</p>
+            <p>May it therefore pleaſe your Lordſhips to diſcharge the Collectors and others imployed, in Collecting His Majeſties Cuſtoms, to Levy and Exact any Cuſtom, or other Duty from us, for the Victual be<g ref="char:EOLhyphen"/>longing to us, and lying either in the Road of <hi>Leith,</hi> or lying at <hi>Haymouth</hi> and <hi>Holy-Iſland</hi> before the ſaid Proclamation, and to ap<g ref="char:EOLhyphen"/>point any of your Lordſhips Number, or of his Majeſties Collectors or Magiſtrat in the place, to take our Oaths, or receive ſuch other ſufficient <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <unclear>the</unclear> quantity of the forſaid Victual, and where it lyes, and when it Arrived there. To the effect we by your Lordſhips goodneſs may be ſaved from ſo heavy prejudice, as will far exceed what ever benefite we could have made by Import<g ref="char:EOLhyphen"/>ing the forſaid Victual upon the Faith and encouragement given by the Government.</p>
+            <closer>And your Petitioner ſhall ever pray.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
